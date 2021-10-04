@@ -12,7 +12,11 @@ export default [
     avatarUrl: '/static/images/avatars/avatar_3.png',
     createdAt: 1555016400000,
     email: 'ekaterina.tankova@devias.io',
+<<<<<<< HEAD
     name: 'Alexander Benteby',
+=======
+    name: 'Ekaterina Tankova',
+>>>>>>> 18badf6e7b5f176cff9b32e8a2416d9472346e6f
     phone: '304-428-3097'
   },
   {
